@@ -1,4 +1,4 @@
-AlkyWallet - Billetera Virtual 💰
+#AlkyWallet - Billetera Virtual 💰
 AlkyWallet es una aplicación de billetera virtual desarrollada como proyecto final del curso de Aceleracion Tech de Alkemy y Innovación Tierra del Fuego. Esta solución permite a los usuarios gestionar sus finanzas digitales de manera segura y eficiente.
 
 🚀 Características Principales
